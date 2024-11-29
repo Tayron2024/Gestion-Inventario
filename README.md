@@ -4,9 +4,12 @@ En este ejercicio, deberán diseñar y desarrollar un Sistema de Gestión de Eve
 
 ## Integrantes: 
 Tayron Morales
+
 Mathias Medina
 
 # Diagrama UMl
 
 ![image](https://github.com/user-attachments/assets/16fbf572-885f-4a7d-8c4a-0550c8dc68c7)
+
+
 
